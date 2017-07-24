@@ -1,2 +1,0 @@
-webpackJsonp([1818],{"./node_modules/json-loader/index.js!./.cache/json/articles-certificates-use-rgb-to-mix-color.json":function(e,o){e.exports={data:{markdownRemark:{html:"<p>RGB value orange: <code>rgb(255, 165, 0)</code></p>",frontmatter:{title:"Use Rgb To Mix Color",parent:"/home/stuart/guides/src/pages/articles/certificates/use-rgb-to-mix-color/index.md absPath of file"}}},pathContext:{slug:"/articles/certificates/use-rgb-to-mix-color/"}}}});
-//# sourceMappingURL=path---articles-certificates-use-rgb-to-mix-color-cfb391f81b7c4a8602cd.js.map

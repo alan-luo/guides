@@ -1,2 +1,0 @@
-webpackJsonp([1820],{"./node_modules/json-loader/index.js!./.cache/json/articles-certificates-use-rgb-to-color-elements-red.json":function(e,t){e.exports={data:{markdownRemark:{html:"<p>background-color: rgb(255, 0, 0)</p>",frontmatter:{title:"Use Rgb To Color Elements Red",parent:"/home/stuart/guides/src/pages/articles/certificates/use-rgb-to-color-elements-red/index.md absPath of file"}}},pathContext:{slug:"/articles/certificates/use-rgb-to-color-elements-red/"}}}});
-//# sourceMappingURL=path---articles-certificates-use-rgb-to-color-elements-red-1965c0d859aedd145afe.js.map
